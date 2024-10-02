@@ -1,5 +1,5 @@
 def sum(a,b,c):
     return a+b+c
 
-def division(a,b):
-    return a/b
+def division(a,c):
+    return a/c
